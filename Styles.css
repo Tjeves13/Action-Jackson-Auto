@@ -1,0 +1,42 @@
+
+.nav{
+    border-style:none ;
+    
+    width:20% ;
+    margin: auto;
+
+    list-style: none;
+    padding-left: 0;
+
+    text-align: center;
+}
+
+.nav>li{ 
+    border-style: groove;
+    display: inline-block;
+}
+
+.nav>li>a{
+    text-decoration-color: crimson;
+}
+
+.logo {
+    background-image: url(Images/Logo2.0.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bod{
+    text-align: center;
+}
+
+.white{ 
+    color: rgb(255, 255, 255);
+    padding-right: 26%;
+    padding-top: 19%;
+}
+
+.pic{
+    width: 45%;
+    height: auto;
+}
